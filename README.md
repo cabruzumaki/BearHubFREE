@@ -1,0 +1,2 @@
+# BearHubFREE
+HubCore
